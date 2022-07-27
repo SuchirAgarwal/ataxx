@@ -1,0 +1,7 @@
+#* java -ea ataxx.Main
+# Authored testcase no. 1 in progress. MUST ADD MOVES AND SET MANUAL/AUTO.
+manual blue
+a7-a5
+g7-g5
+dump
+quit
